@@ -1,0 +1,6 @@
+DS_01	/home/chenbh/lc_reseq/reads/DS_01_1.clean.fq.gz	/home/chenbh/lc_reseq/reads/DS_01_2.clean.fq.gz
+DS_02	/home/chenbh/lc_reseq/reads/DS_02_1.clean.fq.gz	/home/chenbh/lc_reseq/reads/DS_02_2.clean.fq.gz
+PT_01	/home/chenbh/lc_reseq/reads/PT_01_1.clean.fq.gz	/home/chenbh/lc_reseq/reads/PT_01_2.clean.fq.gz
+PT_02	/home/chenbh/lc_reseq/reads/PT_02_1.clean.fq.gz	/home/chenbh/lc_reseq/reads/PT_02_2.clean.fq.gz
+ZJ_03	/home/chenbh/lc_reseq/reads/ZJ_03_1.clean.fq.gz	/home/chenbh/lc_reseq/reads/ZJ_03_2.clean.fq.gz
+ZJ_04	/home/chenbh/lc_reseq/reads/ZJ_04_1.clean.fq.gz	/home/chenbh/lc_reseq/reads/ZJ_04_2.clean.fq.gz

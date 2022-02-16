@@ -1,0 +1,6 @@
+sample1	A	s1_1.fq.gz	s1_2.fq.gz
+sample2	A	s2_1.fq.gz	s2_2.fq.gz
+sample3	A	s3_1.fq.gz	s3_2.fq.gz
+sample4	B	s4_1.fq.gz	s4_2.fq.gz
+sample5	B	s5_1.fq.gz	s5_2.fq.gz
+sample6	B	s6_1.fq.gz	s6_2.fq.gz
